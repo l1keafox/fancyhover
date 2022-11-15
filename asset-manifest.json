@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fancyhover/static/css/main.b0dc9214.css",
+    "main.js": "/fancyhover/static/js/main.637c886b.js",
+    "static/js/787.f8d9bf04.chunk.js": "/fancyhover/static/js/787.f8d9bf04.chunk.js",
+    "index.html": "/fancyhover/index.html",
+    "main.b0dc9214.css.map": "/fancyhover/static/css/main.b0dc9214.css.map",
+    "main.637c886b.js.map": "/fancyhover/static/js/main.637c886b.js.map",
+    "787.f8d9bf04.chunk.js.map": "/fancyhover/static/js/787.f8d9bf04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0dc9214.css",
+    "static/js/main.637c886b.js"
+  ]
+}
